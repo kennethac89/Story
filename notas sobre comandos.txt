@@ -1,5 +1,6 @@
+git init				inicializar git dentro de una carpeta
 git status				ver el staging area (archivos dentro del git)
 git add (nombreArchivo)			agregar archivo especifico a git
-git commit -m "mensajeCualquiera"	hace commit en un archivo y lo comenta con descripcion de cmabio, lo mas explicito posible
+git commit -m "mensajeCualquiera"	hace commit en un archivo y lo comenta /en tiempo presente)con descripcion de cmabio, lo mas explicito posible
 git log					para ver info de commits
 git add .				para añadir todos los archivos del directorio a git
